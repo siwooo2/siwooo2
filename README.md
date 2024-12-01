@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </div>
-  <br/><br/>
+  <br/>
 
   <h3>🧑‍💻 포트폴리오</h3>
   <a href="https://mammoth-peony-e77.notion.site/13b960c200588075a8d5d777c11ddbf6?pvs=4">
